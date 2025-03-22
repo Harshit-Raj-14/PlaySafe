@@ -64,13 +64,4 @@ npm run dev
 
 Visit **`http://localhost:3000`** in your browser.
 
-## 🤝 Contributing
-We welcome contributions! Feel free to open an issue or submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
-## 💌 Contact
-- **Developer**: [Harshit Raj](https://github.com/Harshit-Raj-14)
-
-🚀 *Join us in making online gambling safer!*
