@@ -3,6 +3,9 @@
 
 ## 🛡️ PlaySafe AI - Online Gambling Addiction: Early Detection & Prevention
 
+**🎥 Video Demo - [Watch the Demo](https://drive.google.com/file/d/1VrDMsPQkELcaB4txPmKDdKAgNILKPvoW/view)**
+
+<hr>
 ### 🚨 Problem Statement
 Gambling addiction impacts millions worldwide, causing financial, emotional, and social distress. Early detection is limited, and individuals often fail to seek intervention until it's too late. Young children are also increasingly vulnerable to online gambling, lacking proper safeguards.
 
